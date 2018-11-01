@@ -1,0 +1,23 @@
+#title_home{
+	font-size:30px;
+	padding-botton:30px;
+}
+
+#home_content{
+	padding-right: 60px;
+    padding-left: 60px;
+    border-radius: 6px;
+    margin-top: 30px;
+    color: inherit;
+    background-color: #eee;
+}
+
+div.col-lg-4 {
+	height:220px;
+	display: table;
+}
+
+p.bnt {
+	display: table-row;
+    vertical-align: bottom;
+}

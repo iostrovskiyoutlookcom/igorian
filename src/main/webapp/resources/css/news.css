@@ -1,0 +1,29 @@
+.news_box {
+	border:1px solid silver;
+	border-radius: 5px;
+	margin: 5px;
+}
+
+#news_img {
+	width: 500px; 
+	padding: 20px;
+}
+
+#news_annotattion {
+	padding: 20px;
+}
+
+#news_footer{
+	display:flex;
+}
+
+#news_footer h5 {
+	margin:30px;
+	padding-top:15px;
+}
+
+#news_footer a {
+	margin:30px;
+	padding:10px;
+	border-radius:5px;
+}
