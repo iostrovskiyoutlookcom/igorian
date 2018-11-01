@@ -12,6 +12,8 @@ public class EntryController {
 	public String home(Model model) {
 		
 		model.addAttribute("title", "Авторизация" );
+		model.addAttribute("style","resources/css/entry.css");
+		model.addAttribute("script","resources/css/entry.js");
 		
 		return "entry/index";
 	}
